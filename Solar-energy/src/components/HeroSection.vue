@@ -28,7 +28,7 @@
     <!-- Stats Grid -->
     <div class="stats-grid">
       <div class="stat-item">
-        <h3>25+ Years</h3>
+        <h3>5+ Years</h3>
         <p>System Lifespan</p>
       </div>
       <div class="stat-item">
@@ -36,7 +36,7 @@
         <p>Powered Nationwide</p>
       </div>
       <div class="stat-item">
-        <h3>$0 Down</h3>
+        <h3>GH0 Down</h3>
         <p>Financing Options</p>
       </div>
     </div>
